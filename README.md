@@ -1,7 +1,10 @@
 
 
 ## Project info
+Med-AI-Intel is a hospital workflow dashboard built with React, TypeScript and Vite. It provides role-based interfaces and utilities for clinicians, admin staff and patients to manage clinical workflows, records, and basic analytics.
+![Alt text](https://github.com/BrhKmr23/Med-AI-Intel/blob/main/public/Admin.png)
 
+![Alt text](https://github.com/BrhKmr23/Med-AI-Intel/blob/main/public/Doctor.png)
 
 
 ## How can I edit this code?
